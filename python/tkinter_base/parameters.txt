@@ -1,0 +1,15 @@
+DS_a=9.182288630493893
+DS_aps=22.865036886854398
+DS_ass=30.0
+DS_b=-73.0
+DS_B1balde=26.475482227957876
+DS_chordlengh=54.8
+DS_e=17.0
+DS_L1_cax=0.4
+DS_L3_cax=0.8
+DS_L4_cax=0.3
+DS_pitch=48.3
+DS_r=-43.0
+DS_rle_cax=0.1
+DS_rte=0.2
+DS_te=12.0
